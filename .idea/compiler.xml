@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Safe_password_main" target="11" />
+      <module name="Problems-Safe_password_test" target="11" />
+      <module name="Smart_Calculator-task_main" target="11" />
+      <module name="Smart_Calculator-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

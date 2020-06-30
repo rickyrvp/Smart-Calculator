@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d140a88a-a931-4315-a0a5-36266079b01a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Smart Calculator/task/src/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/Very big/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/Very big/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/build/classes/java/main/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/build/classes/java/main/calculator/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests/test/classes/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests/test/classes/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/build/test-results/test/TEST-Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/build/test-results/test/TEST-Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aEcUW3IXLI98hxCthTG0RPppuW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d140a88a-a931-4315-a0a5-36266079b01a" name="Default Changelist" comment="" />
+      <created>1586304209679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586304209679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1575" height="279" key="GridCell.Tab.0.bottom" timestamp="1586380213183">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1575" height="279" key="GridCell.Tab.0.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1586380213183" />
+    <state width="1575" height="279" key="GridCell.Tab.0.center" timestamp="1586380213182">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1575" height="279" key="GridCell.Tab.0.center/55.23.1625.1027@55.23.1625.1027" timestamp="1586380213182" />
+    <state width="1575" height="279" key="GridCell.Tab.0.left" timestamp="1586380213182">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1575" height="279" key="GridCell.Tab.0.left/55.23.1625.1027@55.23.1625.1027" timestamp="1586380213182" />
+    <state width="1575" height="279" key="GridCell.Tab.0.right" timestamp="1586380213183">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state width="1575" height="279" key="GridCell.Tab.0.right/55.23.1625.1027@55.23.1625.1027" timestamp="1586380213183" />
+    <state x="481" y="250" key="SettingsEditor" timestamp="1590897574523">
+      <screen x="55" y="23" width="1865" height="1177" />
+    </state>
+    <state x="481" y="250" key="SettingsEditor/55.23.1865.1177@55.23.1865.1177" timestamp="1590897574523" />
+    <state x="543" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1590977039024">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="1856" y="334" key="com.intellij.ide.util.TipDialog/55.23.1385.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1586304214174" />
+    <state x="543" y="244" key="com.intellij.ide.util.TipDialog/55.23.1625.1027@55.23.1625.1027" timestamp="1590977039024" />
+    <state x="271" y="159" key="new project wizard" timestamp="1587664750412">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="271" y="159" key="new project wizard/55.23.1625.1027@55.23.1625.1027" timestamp="1587664750412" />
+  </component>
+</project>
